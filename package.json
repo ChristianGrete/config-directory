@@ -18,7 +18,9 @@
   "dependencies": {},
   "description": "A simple configuration files loader for Node.js projects",
   "devDependencies": {
+    "@types/core-js": "^0.9.35",
     "@types/node": "0.0.2",
+    "core-js": "^2.4.1",
     "ts-node": "^1.7.0",
     "typescript": "^2.0.10"
   },
