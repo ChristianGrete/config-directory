@@ -17,7 +17,11 @@
   ],
   "dependencies": {},
   "description": "A simple configuration files loader for Node.js projects",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "0.0.2",
+    "ts-node": "^1.7.0",
+    "typescript": "^2.0.10"
+  },
   "files": [
     "*.md"
   ],
