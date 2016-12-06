@@ -1,0 +1,1 @@
+# Contributing to [config-directory](https://github.com/ChristianGrete/config-directory)
