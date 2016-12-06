@@ -2,10 +2,7 @@
 
 [![Latest GitHub Tag](https://img.shields.io/github/tag/ChristianGrete/config-directory.svg)](https://github.com/ChristianGrete/config-directory/tags)
 
-> Coming soon: A simple configuration files loader for [Node.js](https://nodejs.org) projects
-
-## Note
-This branch does not contain any source files or artifacts as it is in its initial state. Please switch to the `develop` branch to checkout the current state of development.
+> A simple configuration files loader for [Node.js](https://nodejs.org) projects
 
 ## Policy
 
