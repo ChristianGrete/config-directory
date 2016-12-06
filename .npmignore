@@ -1,0 +1,10 @@
+.DS_Store
+.editorconfig
+.git/
+.gitignore
+.npmignore
+.tm_properties
+node_modules/
+npm-debug.log
+package.json
+scripts/
