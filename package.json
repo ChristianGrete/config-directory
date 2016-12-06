@@ -1,0 +1,43 @@
+{
+  "author": {
+    "email": "webmaster@christiangrete.com",
+    "name": "Christian Grete",
+    "url": "https://christiangrete.com"
+  },
+  "bugs": {
+    "email": "webmaster@christiangrete.com",
+    "url": "https://github.com/ChristianGrete/config-directory/issues"
+  },
+  "contributors": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "A simple configuration files loader for Node.js projects",
+  "devDependencies": {},
+  "files": [
+    "*.md"
+  ],
+  "homepage": "https://github.com/ChristianGrete/config-directory",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "name": "config-directory",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChristianGrete/config-directory.git"
+  },
+  "scripts": {},
+  "version": "0.0.0"
+}
