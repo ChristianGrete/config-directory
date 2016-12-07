@@ -1,6 +1,6 @@
-# [config-directory](https://github.com/ChristianGrete/config-directory)
+# [config-directory][github-url]
 
-[![Latest GitHub Tag](https://img.shields.io/github/tag/ChristianGrete/config-directory.svg)](https://github.com/ChristianGrete/config-directory/tags)
+[![Latest GitHub Tag][shield-github-tag]][github-tags-url]
 
 > A simple configuration files loader for [Node.js](https://nodejs.org) projects
 
@@ -27,3 +27,10 @@ Copyright © 2016 [Christian Grete](https://christiangrete.com)
 - [Twitter](https://twitter.com/ChristianGrete)
 - [LinkedIn](https://www.linkedin.com/in/ChristianGrete)
 - [XING](https://www.xing.com/profile/Christian_Grete2)
+
+[github-tags-url]: https://github.com/ChristianGrete/config-directory/tags
+[github-url]: https://github.com/ChristianGrete/config-directory
+[npm-badge]: https://nodei.co/npm/config-directory
+[package-quality-url]: http://packagequality.com/#?package=config-directory
+[shield-github-tag]: https://img.shields.io/github/tag/ChristianGrete/config-directory.svg
+[shield-package-quality]: http://npm.packagequality.com/shield/config-directory.svg
